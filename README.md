@@ -7,7 +7,8 @@
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: It's never to late to decide to LIVE in the NOW -- it's a gift, that's why it's called The Present🙄. Be grateful, ___God is good___!
+- ⚡ Fun fact: It's never to late to decide to LIVE in the NOW -- it's a gift, that's why it's called The Present🙄.
+> > `Be grateful`, ___God is good___!
 
 <!---
 **DarrenSem/DarrenSem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
