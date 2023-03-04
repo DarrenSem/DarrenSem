@@ -1,5 +1,5 @@
 <!-- My GITHUB (not just gist!) - README.md in root of DarrenSem - DarrenSem -->
-- 👋 Hi, I’m @DarrenSem ___Darren Semotiuk___
+- 👋 Hi, I’m ___Darren Semotiuk___ @DarrenSem
 - 🌱 I’m currently learning __React__ [, WebPack, various additions to ECMAScript 6+ since 2015]
 - 🔭 I’m currently working on a variety of Javascript ___bookmarklets___ (examples in my _gist_ @ https://gist.github.com/DarrenSem)
 - 👀 I’m interested in automation in general -- code is supposed to make real people's lives easier; I consider myself a ___pain reliever___...
