@@ -1,13 +1,13 @@
 <!-- My GITHUB (not just gist!) - README.md in root of DarrenSem - DarrenSem -->
 - 👋 Hi, I’m ___Darren Semotiuk___ @DarrenSem
-- 🌱 I’m currently learning __React__ [, WebPack, various additions to ECMAScript 6+ since 2015]
+- 🌱 I’m currently exploring __React__ \[, WebPack, Node, ECMAScript 6+ functionality, JS testing frameworks and assertion libraries\]
 - 🔭 I’m currently working on a variety of Javascript ___bookmarklets___ (examples in my _gist_ @ https://gist.github.com/DarrenSem)
 - 👀 I’m interested in automation in general -- code is supposed to make real people's lives easier; I consider myself a ___pain reliever___...
 - 💬 Ask me about __Regular Expressions__ (non-stop fun!) and content scraping via __querySelectorAll__ (non-stop frustration!)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/DarrenSem)
 - 🤔 I’m looking for help with ...
 - 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: It's never to late to decide to LIVE in the NOW -- it's a gift, that's why it's called The Present 🙄. #DadJokes
+- ⚡ Fun fact: It's never too late to decide to LIVE in the NOW -- it's a gift, that's why it's called The Present 🙄. #DadJokes
 > > `Be grateful`, ___God is good___!
 
 <!---
