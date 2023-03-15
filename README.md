@@ -5,7 +5,7 @@
 - 👀 I’m interested in automation in general -- code is supposed to make real people's lives easier; I consider myself a ___pain reliever___...
 - 💬 Ask me about __Regular Expressions__ (non-stop fun!) and content scraping via __querySelectorAll__ (non-stop frustration!)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/DarrenSem)
-- ⚡ Reminder: It's never too late to decide to LIVE in the NOW -- it's a gift, that's why it's called The Present 🙄. #DadJokes
+- ⚡ Reminder: never too late to decide to LIVE in the NOW! It's a gift, that's why it's called The Present 🙄 #DadJokes
 > > `Be grateful`, ___God is good___!
 
 <!---
