@@ -1,4 +1,5 @@
-<!-- My GITHUB (not just gist!) - README.md in root of DarrenSem - DarrenSem -->
+<img src="https://github-readme-stats.vercel.app/api?username=DarrenSem&show_icons=true" sXYZtyle="width: 70%; max-width: 500px;">
+
 - 👋 Hi, I’m ___Darren Semotiuk___ @DarrenSem
 - 🔭 Currently diving in to [__React__](https://react-tutorial.app) \[, WebPack, Node, [__NPM__](https://www.npmjs.com/~darrensem), ECMAScript 6+ functionality, JS testing frameworks and assertion libraries\], [Go](https://GoByExample.com/).
 - 🌱 I love creating a variety of Javascript ___bookmarklets___ (examples in my _gist_ @ https://gist.github.com/DarrenSem)
