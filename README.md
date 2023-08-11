@@ -1,7 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=DarrenSem&show_icons=true" sXYZtyle="width: 70%; max-width: 500px;">
 
 - 👋 Hi, I’m ___Darren Semotiuk___ @DarrenSem
-- 🔭 Currently diving in to [__React__](https://react-tutorial.app) \[, WebPack, Node, [__NPM__](https://www.npmjs.com/~darrensem), ECMAScript 6+ functionality, JS testing frameworks and assertion libraries\], [Go](https://GoByExample.com/).
+- 🔭 Currently diving in to [__React__](https://react-tutorial.app) \[, WebPack, Node, [__NPM__](https://www.npmjs.com/~darrensem), ECMAScript 6+ functionality, JS testing frameworks and assertion libraries\], [Python](https://www.python.org/)/[Flask](https://github.com/pallets/flask), [Go](https://GoByExample.com/).
 - 🌱 I love creating a variety of Javascript ___bookmarklets___ (examples in my _gist_ @ https://gist.github.com/DarrenSem)
 - 👀 I’m interested in automation in general -- code is supposed to make real people's lives easier; I consider myself a ___pain reliever___...
 - 💬 Ask me about __Regular Expressions__ (non-stop fun!) and content scraping via __querySelectorAll__ (non-stop frustration!)
